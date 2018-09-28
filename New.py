@@ -41,7 +41,7 @@ kb.loginResult()
 
 # client = ImgurClient(client_id, client_secret, access_token, refresh_token)
 
-print "=====================\n       ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ\n=====================\n\n=====================\nNote: ᴅɪʟᴀʀᴀɴɢ ᴍᴇᴍᴘᴇʀᴊᴜᴀʟ ʙᴇʟɪᴋᴀɴ sᴄʀɪᴘᴛ ɪɴɪ\n=====================\n\n"
+print "=====================\n       ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ\n=====================\n\n=====================\nNote: ᴅɪʟᴀʀᴀɴɢ ᴍᴇᴍᴘᴇʀᴊᴜᴀʟ ʙᴇʟɪᴋᴀɴ sᴄʀɪᴘᴛ ɪɴɪ\n=====================\n"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
