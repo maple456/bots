@@ -183,8 +183,8 @@ http://line.me/ti/p/%40ntq3882j
 KAC=[ki] 
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
-Creator="u4b0e00ae8e366fc33d645ac5de9acfcf"
-admin=["u4b0e00ae8e366fc33d645ac5de9acfcf",mid]
+Creator="uec6d62c3e4a61f033332bc1d86133e49"
+admin=["uec6d62c3e4a61f033332bc1d86133e49",mid]
 
 contact = cl.getProfile()
 backup = cl.getProfile()
